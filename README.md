@@ -9,3 +9,7 @@ License: You can use it for any purpose as long as you don't claim that you are 
 Refer the circuit of this project, before using this code.<br>
 The analog input pins (A0 & A1) must be returned to ground via 100k resistor each. Refer circuit diagram.<br>
 Then apply the water level signal to these two pins: Full or Empty<br>
+
+## Circuit Diagram
+<img src="https://github.com/dsvidyasagar/Overhead-Tank-Intelligent-Water-Level-Controller/blob/main/Circuit.png" alt="Overhead Tank Intelligent Water Level Controller Circuit" width="50%" height="50%"><br>
+ <figcaption>You can construct the circuit on breadboard</figcaption>
